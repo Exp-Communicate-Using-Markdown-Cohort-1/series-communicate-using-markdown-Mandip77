@@ -15,4 +15,12 @@
 ```
 $ git init
 Initializing or a starting a git in your current directory 
-``
+```
+# Creating a task list 
+
+- [x] Turn on GitHub Pages 
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+##### x in the '[]' determines a completed task
+
